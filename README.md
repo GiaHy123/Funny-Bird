@@ -1,6 +1,11 @@
 # Funny-Bird
 link download : https://drive.google.com/file/d/1RjJ7wo-pQs_kmqWWLRpod4AJQUk6NRxN/view?usp=share_link
+Flatform: Unity
+Language: C#
 
+### Demo video  
+   https://youtu.be/41xx5rdsgRY
+   
 ## Main Features
 ### Login 
 ![image](https://user-images.githubusercontent.com/82514167/236882628-bf15b3f7-1fc7-452d-bc0b-ed4972c641c3.png)
