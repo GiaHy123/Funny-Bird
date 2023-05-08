@@ -21,3 +21,6 @@ Language: C#
 
 ### Customize character, background & music
 ![image](https://user-images.githubusercontent.com/82514167/236883458-45726156-6e50-47c2-88a3-535d84f8517b.png)
+
+## Gameplay
+![image](https://user-images.githubusercontent.com/82514167/236885498-3108b666-c798-43f9-8cf8-6320785d05df.png)
